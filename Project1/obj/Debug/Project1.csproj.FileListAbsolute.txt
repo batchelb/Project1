@@ -16,3 +16,21 @@ c:\users\blake\documents\visual studio 2013\Projects\Project1\Project1\bin\Syste
 c:\users\blake\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
 c:\users\blake\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.dll
 c:\users\blake\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\Project1.dll.config
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\Project1.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\Project1.pdb
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Helpers.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Mvc.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Razor.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Webpages.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Razor.xml
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Webpages.xml
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Helpers.xml
+C:\Users\Nate\Documents\GitHub\Project1\Project1\bin\System.Web.Mvc.xml
+C:\Users\Nate\Documents\GitHub\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Documents\GitHub\Project1\Project1\obj\Debug\Project1.dll
+C:\Users\Nate\Documents\GitHub\Project1\Project1\obj\Debug\Project1.pdb
